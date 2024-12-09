@@ -1,10 +1,10 @@
-#Frontend - Next.js Application
+Frontend - Next.js Application
 Este é um projeto desenvolvido com Next.js, inicializado utilizando create-next-app.
 
-#📖 Introdução
+📖 Introdução
 Este projeto foi desenvolvido para servir como frontend de um sistema OCR integrado com LLMs. O framework Next.js oferece otimização de desempenho e organização no desenvolvimento de aplicações React.
 
-🚀 #Como Iniciar
+🚀 Como Iniciar
 Para rodar o servidor de desenvolvimento, utilize o seguinte comando:
 
 bash
@@ -20,7 +20,7 @@ Após a execução, acesse o endereço abaixo no navegador para visualizar o pro
 
 http://localhost:3000
 
-📂 #Estrutura do Projeto
+📂 Estrutura do Projeto
 A página principal pode ser editada no arquivo app/page.tsx.
 O projeto utiliza next/font para otimizar automaticamente fontes como a Geist, oferecida pela Vercel.
 📚 Recursos de Aprendizado
@@ -32,7 +32,7 @@ Para aprender mais sobre o framework Next.js, confira os recursos abaixo:
 📦 Deploy
 A forma mais simples de fazer o deploy desta aplicação Next.js é através da Plataforma Vercel.
 
-📌 #Passos para Deploy
+📌 Passos para Deploy
 Certifique-se de que o projeto foi inicializado corretamente com o comando:
 
 bash
