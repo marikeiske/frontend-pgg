@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Frontend - Next.js Application
+Este é um projeto desenvolvido com Next.js, inicializado utilizando create-next-app.
 
-## Getting Started
+📖 Introdução
+Este projeto foi desenvolvido para servir como frontend de um sistema OCR integrado com LLMs. O framework Next.js oferece otimização de desempenho e organização no desenvolvimento de aplicações React.
 
-First, run the development server:
+🚀 Como Iniciar
+Para rodar o servidor de desenvolvimento, utilize o seguinte comando:
 
-```bash
+bash
+Copiar código
 npm run dev
-# or
+# ou
 yarn dev
-# or
+# ou
 pnpm dev
-# or
+# ou
 bun dev
-```
+Após a execução, acesse o endereço abaixo no navegador para visualizar o projeto:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+http://localhost:3000
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+📂 Estrutura do Projeto
+A página principal pode ser editada no arquivo app/page.tsx.
+O projeto utiliza next/font para otimizar automaticamente fontes como a Geist, oferecida pela Vercel.
+📚 Recursos de Aprendizado
+Para aprender mais sobre o framework Next.js, confira os recursos abaixo:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+📄 Documentação Oficial do Next.js: Descubra funcionalidades e a API do Next.js.
+🧑‍💻 Tutorial Interativo: Um guia prático para começar a desenvolver com Next.js.
+🌐 Repositório GitHub do Next.js: Compartilhe feedback e contribua com melhorias.
+📦 Deploy
+A forma mais simples de fazer o deploy desta aplicação Next.js é através da Plataforma Vercel.
 
-## Learn More
+📌 Passos para Deploy
+Certifique-se de que o projeto foi inicializado corretamente com o comando:
 
-To learn more about Next.js, take a look at the following resources:
+bash
+Copiar código
+npm run build
+Siga para Deploy na Vercel.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Consulte a documentação oficial de deploy do Next.js para mais detalhes.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+🔗 Links Úteis
+Site Oficial do Next.js
+Plataforma Vercel
+Repositório do Projeto 
